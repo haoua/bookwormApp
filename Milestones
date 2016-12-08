@@ -1,0 +1,26 @@
+##############################################################
+Liste des étapes importantes du projet et problèmes rencontrés
+##############################################################
+
+	- Mettre en place un environnement de travail commun pour chaques membres du groupe 
+		Problème rencontré : 
+			- Compatibilité Windows 8.1 avec les environnements (	MongoDB...)
+
+	- Mise en place du plugin scanner
+		Problème rencontré :
+			- Test(s) impossible(s) avec ionic serve
+		Résolution :
+			- mise en place d'un pont entre le PC et un mobile Android.
+
+	- Gestion de la base de donnée
+		Problème rencontré 1 :
+			- Incapacité à créer des références (exemple : isbn dans les user aurait dû être une référence)
+		Problème rencontré 2 :
+			- Manque de temps cause erreur planning
+		Problème rencontré 3 :
+			- Export des données de la structure
+
+	- Portabilité de l'API
+		Problème rencontré :
+			- Mettre en place le service Heroku et du mlab
+

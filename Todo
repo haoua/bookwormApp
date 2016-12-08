@@ -1,0 +1,18 @@
+###################################
+Liste des éléments restants à faire
+###################################
+
+	- Gérer les séries
+	- hasher les mots de passes pour améliorer la sécurité
+	- Proposer la connexion via une adresse mail
+	- Fonction mot de passe oublié
+	- Lien entre l'API développée et l'application
+
+###################################
+Liste des améliorations possibles
+###################################
+
+	- Gérer les prochaines parutions et proposer l'achat des tomes déjà sortis
+	- Créer des notifications push pour la sortie des nouveau tomes
+	- Lors d'un scan sur un livre, accéder à un résumé rapide ainsi qu'à l'aperçu de la couverture du livre
+	- Créer une page de recherche de livre en fonction de certains critères (nom d'auteur, genre, date de parution...)
